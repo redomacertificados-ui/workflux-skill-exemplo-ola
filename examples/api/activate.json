@@ -1,0 +1,4 @@
+{
+  "scope": { "kind": "sector", "sectorId": "desenvolvimento" },
+  "idempotencyKey": "ativar-exemplo-ola-desenvolvimento"
+}

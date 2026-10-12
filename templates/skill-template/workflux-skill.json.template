@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "com.suaempresa.nome-da-skill",
+  "name": "Nome da Skill",
+  "description": "O que a Skill orienta o agente a fazer, em uma ou duas frases.",
+  "version": "1.0.0",
+  "category": "development",
+  "keywords": ["palavra-chave"],
+  "author": { "name": "Sua Empresa", "url": "https://suaempresa.example" },
+  "license": "MIT",
+  "changelog": "CHANGELOG.md",
+  "compatibility": { "factory": "^1.0.0", "adapters": ["claude-cli", "codex-cli"], "roles": ["developer"] },
+  "dependencies": [],
+  "permissions": ["filesystem.read:workspace"],
+  "entrypoint": "SKILL.md",
+  "files": ["SKILL.md", "CHANGELOG.md", "LICENSE"]
+}

@@ -1,0 +1,5 @@
+{
+  "reason": "Licença revisada por OWNER para esta versão exata",
+  "idempotencyKey": "excecao-licenca-<id>-<versao>",
+  "expectedVersion": 1
+}

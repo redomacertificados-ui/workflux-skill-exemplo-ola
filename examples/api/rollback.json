@@ -1,0 +1,5 @@
+{
+  "reason": "A versão 1.1.0 piorou o benchmark de documentação",
+  "idempotencyKey": "rollback-exemplo-ola-1",
+  "expectedVersion": 2
+}

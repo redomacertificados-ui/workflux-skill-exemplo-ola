@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "com.workflux.exemplo-ola",
+  "name": "Exemplo Olá",
+  "description": "Skill de exemplo do Sistema de Skills da Workflux Factory: orienta o agente a registrar um resumo curto do que fez ao final da tarefa.",
+  "version": "1.0.0",
+  "category": "documentation",
+  "keywords": ["exemplo", "resumo"],
+  "author": { "name": "Workflux Factory" },
+  "license": "MIT",
+  "changelog": "CHANGELOG.md",
+  "compatibility": { "factory": "^1.0.0", "adapters": ["claude-cli", "codex-cli"], "roles": ["developer"] },
+  "dependencies": [],
+  "permissions": ["filesystem.read:workspace"],
+  "entrypoint": "SKILL.md",
+  "files": ["SKILL.md", "CHANGELOG.md", "LICENSE"]
+}

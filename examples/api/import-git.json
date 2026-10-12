@@ -1,0 +1,6 @@
+{
+  "kind": "git",
+  "url": "https://github.com/<dono>/workflux-skill-exemplo-ola",
+  "ref": "v1.0.0",
+  "idempotencyKey": "exemplo-ola-1.0.0"
+}
